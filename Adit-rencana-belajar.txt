@@ -2,5 +2,5 @@ RENCANA BELAJAR ADITYA
 
 - Belajar github
 - Belajar laravel 10
-   ^ Pelajari hal terbaru!
+   ^ Belajar membuat dashboard user admin
 - Belajar materi terbaru
