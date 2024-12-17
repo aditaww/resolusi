@@ -1,8 +1,5 @@
 RENCANA BELAJAR ADITYA
 
-- Belajar CI 3
-    *Edit
-    *Delete
 - Belajar github
 - Belajar laravel 10
    ^ Belajar membuat dashboard user admin
