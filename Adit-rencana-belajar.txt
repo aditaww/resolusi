@@ -1,0 +1,5 @@
+RENCANA BELAJAR ADITYA
+
+- Belajar CI 3
+- Belajar github
+- Belajar laravel 10
